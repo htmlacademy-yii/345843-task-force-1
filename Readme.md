@@ -1,7 +1,7 @@
 # Личный проект «TaskForce»
 
 * Студент: [Три Десятова](https://up.htmlacademy.ru/yii/1/user/345843).
-* Наставник: `Неизвестно`.
+* Наставник: [Лена Морозова](https://up.htmlacademy.ru/yii/1/user/561659).
 
 ---
 
